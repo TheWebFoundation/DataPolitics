@@ -1,0 +1,3831 @@
+[
+  {
+    "name": "Psicología Política",
+    "associated_companies": "Psicología Política",
+    "office_city": [
+      "Mexico City"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://psicologiapolitica.com.mx/",
+    "twitter": "https://twitter.com/politicapsi",
+    "facebook": null,
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Political Psychology"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Carlos Rivera"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys"
+    ],
+    "targeting_methods": [
+      "Speeches"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Offers a range of services including assisting with surveys, literature review, speech writing, and building profiles using \"las técnicas utilizadas por los organismos de inteligencia nacionales para construir perfiles psicológicos de los jefes extranjeros, dirigentes nacionales y líderes estatales.\"<br />The founder describes his work as follows: \"As a behavioural and political scientist I offer customised experimental behavioural research, demographic segmentation, and strategic communications advice to understand public opinion, consumer and voter behaviour, and adherences to both political parties and commercial brands. My consultancy services focus on the emotional and psychological mechanisms behind human behaviour to develop effective policies and clear political messages to your constituents, electors, and target audiences.\"",
+    "legal_entities": null,
+    "searx_queries": null
+  },
+  {
+    "name": "Newlink Group",
+    "associated_companies": "Newlink Group",
+    "office_city": [
+      "Miami",
+      "Mexico City",
+      "Santo Domingo",
+      "Lima",
+      "Buenos Aires",
+      "Madrid"
+    ],
+    "office_country": [
+      "United States",
+      "Mexico",
+      "Dominican Republic",
+      "Peru",
+      "Argentina",
+      "Spain"
+    ],
+    "website": "http://www.newlink-group.com/",
+    "twitter": "https://twitter.com/newlinkgroup",
+    "facebook": "https://www.facebook.com/NewlinkGroup/",
+    "linkedin": "https://linkedin.com/company/newlink-group_120503/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Marketing"
+    ],
+    "customer_country": [
+      "Mexico",
+      "Ecuador",
+      "Guatemala"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Gustavo Rojas Matute"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys",
+      "Focus Groups",
+      "Surveys",
+      "Social Media"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/in/gustavo-rojas-matute-889aa232/en"
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "A large, general marketing company that works on political campaigns (in addition to working with governments and in the private sector).",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_fl/L15000075997",
+      "https://opencorporates.com/companies/us_fl/P98000045033",
+      "https://opencorporates.com/companies/us_fl/L12000097538",
+      "https://opencorporates.com/companies/us_fl/L10000117133",
+      "https://opencorporates.com/companies/us_fl/L15000160663",
+      "https://opencorporates.com/companies/us_fl/L06000022665",
+      "https://opencorporates.com/companies/us_fl/L15000009628",
+      "https://opencorporates.com/companies/us_fl/L15000009617",
+      "https://opencorporates.com/companies/us_fl/L10000130003",
+      "https://opencorporates.com/companies/pa/2200L",
+      "https://opencorporates.com/companies/do/253525",
+      "https://opencorporates.com/companies/do/253608",
+      "https://opencorporates.com/companies/do/253526",
+      "https://opencorporates.com/companies/do/253680",
+      "https://opencorporates.com/companies/do/253524",
+      "https://opencorporates.com/companies/us_fl/L15000148129",
+      "https://opencorporates.com/companies/do/198004",
+      "https://opencorporates.com/companies/us_fl/L05000014503",
+      "https://opencorporates.com/companies/us_fl/P05000022867"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "ENODO Global",
+    "associated_companies": "ENODO Global",
+    "office_city": null,
+    "office_country": [
+      "United States"
+    ],
+    "website": "http://enodoglobal.com/",
+    "twitter": "https://twitter.com/EnodoGlobal",
+    "facebook": "https://www.facebook.com/ENODOglobal",
+    "linkedin": "https://www.linkedin.com/company/enodo-global",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Full-Service Political Marketing",
+      "Social Listening"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "James R. Sisco",
+      "Robert Smith",
+      "Bryan Bloom",
+      "Aswin Subathore",
+      "Luis Soto",
+      "Patty Todaro Bolin",
+      "Mary Andrade",
+      "James Filpi",
+      "Norman Hayes",
+      "Jay W. Hood",
+      "Montgomery McFate",
+      "Josh Prueher",
+      "Douglas A. Smith",
+      "James B. Smith"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Surveys",
+      "Focus Groups",
+      "News"
+    ],
+    "targeting_methods": [
+      "Microtargeting"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://www.enodoglobal.com/wp-content/uploads/2016/01/ENODO_Flyer-Campaign_FINAL.pdf",
+        "http://enodoglobal.com/wp-content/uploads/2016/09/ENODO_Methodology-One-Pager_FINAL.pdf",
+        "http://www.enodoglobal.com/wp-content/uploads/ENODO-Brochure-Tri-Fold.pdf",
+        "http://enodoglobal.com/wp-content/uploads/2018/05/ENODO_Social-Media-Exploitation_Colombia-Presidential-Elections_20180402_FINAL-1.pdf",
+        "http://enodoglobal.com/wp-content/uploads/2018/05/ENODO_Social-Media-Exploitation_Cartoons-Memes-GIFs_20180131_FINAL.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "http://enodoglobal.com/2018/01/30/how-to-win-back-the-mexican-election/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "They have documents on their website discussing their analytics methodology and examining how these techniques could be applied to various political contexts, including in Mexico and Colombia.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_va/07778228"
+    ],
+    "searx_queries": "https://searx.me/?q=%22enodo%20global%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Xaxis",
+    "associated_companies": "Xaxis",
+    "office_city": [
+      "New York",
+      "Miami",
+      "London",
+      "Singapore"
+    ],
+    "office_country": [
+      "United States",
+      "United Kingdom",
+      "Singapore"
+    ],
+    "website": "https://www.xaxis.com",
+    "twitter": "https://twitter.com/Xaxistweets",
+    "facebook": "https://www.facebook.com/XAXISFans/",
+    "linkedin": "https://www.linkedin.com/company-beta/2264056/?pathWildcard=2264056",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Microtargeting"
+    ],
+    "customer_country": [
+      "United States",
+      "Philippines",
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Nicolas Bidon",
+      "David J. Moore",
+      "Matt Sweeney",
+      "Arshan Saha",
+      "John Wittesaele",
+      "Erik Castillo",
+      "Laura Probert",
+      "Michel Gagnon",
+      "Mike Bevans",
+      "Lucas Mentasti",
+      "MaríaFernanda Ordorica Diez"
+    ],
+    "affiliated_companies": [
+      "Haystaq DNA",
+      "GroupM",
+      "WPP"
+    ],
+    "data_sources": [
+      "Social Media",
+      "Surveys",
+      "Voter Databases"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "TV",
+      "Radio"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.businesswire.com/news/home/20151109006051/en/Xaxis-Brings-Programmatic-Political-Advertising-Xaxis-Politics",
+        "https://www.groupm.com/news/xaxis-politics-launches-philippines",
+        "https://adexchanger.com/agencies/xaxis-first-latin-america-ceo-talks-growing-business-region-vastly-diverse-cultures/"
+      ]
+    },
+    "description": "\"Xaxis Politics is the first programmatic product that enables advertisers to leverage offline voter data to inform their digital campaigns. This means that political advertisers can reach their most relevant voters across display, mobile, online video, digital radio, connected TV and social media.\"",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=xaxis"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "HaystaqDNA",
+    "associated_companies": "HaystaqDNA",
+    "office_city": [
+      "Washington DC",
+      "New York",
+      "Wisconsin",
+      "Arizona"
+    ],
+    "office_country": [
+      "United States",
+      "Hong Kong"
+    ],
+    "website": "https://haystaqdna.com",
+    "twitter": "https://twitter.com/haystaqdna",
+    "facebook": "https://www.facebook.com/haystaqdna",
+    "linkedin": "https://www.linkedin.com/company/haystaqdna",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Microtargeting",
+      "Voter Databases"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Bernie Sanders"
+    ],
+    "associated_people": [
+      "Ken Strasma",
+      "Andrew Drechsler",
+      "Brad Wleneke",
+      "Willie Desmond",
+      "Madeline O'Connor",
+      "Sébastien Vidal",
+      "Marcin Kossakowski",
+      "Blake Silberberg",
+      "Sergio Gutierrez"
+    ],
+    "affiliated_companies": [
+      "Xaxis",
+      "L2 Political"
+    ],
+    "data_sources": [
+
+    ],
+    "targeting_methods": [
+      "Facebook",
+      "Google",
+      "Trade Desk",
+      "RocketFuel",
+      "TV",
+      "Mail",
+      "Door-to-Door"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "https://haystaqdna.com/wp-content/uploads/2017/01/HaystaqDNA-and-Bernie-Sanders-2016.pdf",
+        "https://haystaqdna.com/wp-content/uploads/2017/01/Support-for-the-Affordable-Care-Act-HaystaqDNA.pdf",
+        "http://www.l2political.com/wp-content/uploads/2016/09/L2-2016-Voter-Models.pdf",
+        "https://policyreview.info/node/773/pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.businesswire.com/news/home/20151109006051/en/Xaxis-Brings-Programmatic-Political-Advertising-Xaxis-Politics",
+        "http://www.l2political.com/products/data/haystaqdna/"
+      ]
+    },
+    "description": "Company formed by some of the people who did microtargeting on campaigns for Barack Obama and Michael Bloomberg. Xaxis released products that use HaystaqDNA's National Voter Database of 166 million voters in the 2016 election.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_de/5283650",
+      "https://opencorporates.com/companies/us_dc/EXTUID_4132115",
+      "https://opencorporates.com/companies/us_wy/2015-000687412"
+    ],
+    "searx_queries": "https://searx.me/?q=haystaqdna&categories=news&language=en-US"
+  },
+  {
+    "name": "Tasty Data",
+    "associated_companies": "Tasty Data",
+    "office_city": null,
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://www.tastydata.mx/",
+    "twitter": "https://twitter.com/tastydata",
+    "facebook": null,
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Social Listening",
+      "Political Psychology"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Andres Villasenor"
+    ],
+    "affiliated_companies": [
+      "Intelie"
+    ],
+    "data_sources": [
+      "Twitter"
+    ],
+    "targeting_methods": [
+      "Psychological Profiles"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+        "http://archive.is/oMf6U",
+        "http://archive.is/sCpCe"
+      ],
+      "news": [
+        "https://twitter.com/search?q=from%3Axochilechuga%20tastydata&src=typd",
+        "https://www.ibm.com/watson/services/personality-insights/",
+        "https://angel.co/tasty-data-2",
+        "https://www.kaggle.com/tastydata",
+        "http://propiedades.com/blog/arquitecura-y-urbanismo/propuestas-vivienda-candidatos"
+      ]
+    },
+    "description": "TastyData seems to have removed their Twitter, LinkedIn, and website around the time the Cambridge Analytica scandal broke. They allowed companies to analyze and monitor social media profiles in real time and then used IBM's personality insights service to build psychological profiles. This service \"uses linguistic analysis to extract cognitive and social characteristics from input text such as email, text messages, tweets, forum posts, and more.\"<br />In addition to their political work, Tasty Data appears to have worked on the prediction of electricity prices in Mexico.",
+    "legal_entities": null,
+    "searx_queries": null
+  },
+  {
+    "name": "10x Psychometrics",
+    "associated_companies": "10x Psychometrics",
+    "office_city": [
+      "Surrey"
+    ],
+    "office_country": [
+      "United Kingdom"
+    ],
+    "website": "www.10xpsychometrics.com",
+    "twitter": "https://twitter.com/10xpsych",
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/10x-psychometrics/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Political Psychology"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Peter Saville"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys"
+    ],
+    "targeting_methods": [
+      "Psychological Profiles"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/in/professor-peter-saville-b208a67/"
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://thepsychologist.bps.org.uk/volume-30/december-2017/featured-job-research-and-product-development-director-10x-psychometrics"
+      ]
+    },
+    "description": "A psychometrics consulting company founded by a professor who did a PhD studying OCEAN (five factor) personality models. It is unclear what industries they work in.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/gb/09780665"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Gabinete de Comunicación Estratégica",
+    "associated_companies": "Gabinete de Comunicación Estratégica",
+    "office_city": [
+      "Mexico City"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://gabinete.mx/",
+    "twitter": "https://twitter.com/gabinetemex",
+    "facebook": "https://www.facebook.com/GabineteMex/",
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Surveys",
+      "Microtargeting"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+      "Partido Acción Nacional",
+      "Party of the Democratic Revolution",
+      "Partido Revolucionario Institucional"
+    ],
+    "associated_people": [
+      "Lluvia Hernandez"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys",
+      "Focus Groups"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/in/lluviahernandez"
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "General electoral strategy company using mostly traditional methods such as surveys and focus groups to analyze audiences. Though, someone who worked for them said on LinkedIn that they use microtargeting as well. They appear to be quite open about who they work with and have a list of customers on their website.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Philometrics",
+    "associated_companies": "Philometrics",
+    "office_city": [
+      "Manchester"
+    ],
+    "office_country": [
+      "United Kingdom"
+    ],
+    "website": "https://philometrics.com/",
+    "twitter": "https://twitter.com/philometrics",
+    "facebook": "https://facebook.com/philometrics/",
+    "linkedin": "https://www.linkedin.com/company/philometrics",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Surveys",
+      "Machine Learning"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Aleksandr Kogan"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://web.archive.org/web/20180319211357/https://philometrics.com/method"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+        "https://web.archive.org/web/20180319211357/https://philometrics.com/method"
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Uses machine learning to forecast how additional people would answer a survey, a method they call \"SurveyExtender\". The examples they give pertain to the United States and they have multiple companies incorporated there, so it is likely they work there. Some of the same people involved as Cambridge Analytica.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_ca/C4040198",
+      "https://opencorporates.com/companies/us_de/5772494",
+      "https://opencorporates.com/companies/us_nj/0450218442",
+      "https://opencorporates.com/companies/gb/11013087"
+    ],
+    "searx_queries": "https://searx.me/?q=philometrics&categories=news&language=en-US"
+  },
+  {
+    "name": "comScore",
+    "associated_companies": "comScore",
+    "office_city": [
+      "Reston",
+      "Portand",
+      "Chicago",
+      "Detroit",
+      "Evansville",
+      "Madison",
+      "Menlo Park",
+      "New"
+    ],
+    "office_country": [
+      "United States",
+      "Canada",
+      "Chile",
+      "Argentina",
+      "Brazil",
+      "Mexico",
+      "Peru"
+    ],
+    "website": "https://www.comscore.com/",
+    "twitter": "https://www.twitter.com/comScoreEMEA",
+    "facebook": "https://www.facebook.com/comScoreInc",
+    "linkedin": "https://www.linkedin.com/company/comscore",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Monitoring Software",
+      "Data Broker"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+
+    ],
+    "affiliated_companies": [
+      "Cambridge Analytica",
+      "PermissionResearch",
+      "OpinionSquare",
+      "VoiceFive Networks",
+      "DollarRevenue"
+    ],
+    "data_sources": [
+      "Monitoring Software",
+      "Browsing Data",
+      "Surveys",
+      "TV Audience Measurement"
+    ],
+    "targeting_methods": [
+      "Adware"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.comscore.com/Insights/Press-Releases/2016/10/comScore-Signs-TV-Agreement-with-Cambridge-Analytica",
+        "https://www.comscore.com/About-comScore/Partners",
+        "https://www.comscore.com/Products/Audience-Analytics/Product-Index",
+        "https://www.comscore.com/Insights/Press-Releases/2018/2/comScore-Grows-TV-Measurement-Footprint-to-More-Than-69-Million-TVs-in-Over-31-Million-US-Homes"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "http://www.benedelman.org/news-062907/"
+      ]
+    },
+    "description": "Audience measurement and analysis company. comScore asks people to install monitoring software on their computer in exchange for various benefits. This software records their browsing activity and comScore sells this to marketing companies and campaigns. comScore also collects data from other sources, including TV audience measurement and surveys. They are a huge company, with offices in nearly two dozen countries.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=comScore"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Metrics Digital",
+    "associated_companies": "Metrics Digital",
+    "office_city": [
+      "Naucalpan"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://metrics.digital/",
+    "twitter": "https://twitter.com/Metrics_Digital",
+    "facebook": "https://www.facebook.com/MetricsDigital/",
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Social Listening",
+      "Social Media Management"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Juan Manuel Torres Esquivel",
+      "Carlos Chavez de Icaza",
+      "Eva Zamora Téllez",
+      "Javier Murillo"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Surveys"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "http://metrics.digital/el-debate-mas-importante-de-la-historia-de-amlo/",
+        "http://metrics.digital/primavera-mexicana-votando-por-un-cambio/",
+        "http://metrics.digital/como-van-los-candidatos-en-medios-digitales-al-17-de-abril-de-2018/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.telesurtv.net/english/news/Cambridge-Analytica-Worked-For-Mexico-Ruling-Party-20180330-0007.html",
+        "http://www.elfinanciero.com.mx/opinion/javier-murillo/cambridge-analytica-sigan-la-ruta-del-dinero",
+        "https://expansion.mx/tecnologia/2017/11/01/inteligencia-artificial-hecha-en-mexico Press Releases:"
+      ]
+    },
+    "description": "Work on a variety of social media/PR management techniques, in particular advising institutions on social media strategy and policies. They posted some public reports about social media analysis they did related to the 2018 Mexican elections. They also make chat bots for customer support.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Element Studios",
+    "associated_companies": "Element Studios",
+    "office_city": [
+      "Mexico City"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://www.element.com.mx/",
+    "twitter": "http://twitter.com/element_mx",
+    "facebook": "http://facebook.com/ElementStudiosMX",
+    "linkedin": "https://www.linkedin.com/company/element-studios",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Social Media Management",
+      "Social Listening",
+      "Brand Management"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Rogelio Espinoza",
+      "Paola Correa",
+      "Alberto Pita",
+      "Beatriz Angulo Rodriguez",
+      "Gustavo Perez Rangel"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Twitter"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/in/rogelio-espinoza-89330b71/",
+        "https://mx.linkedin.com/in/paola-correa-6726a445 Press Releases:"
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Monitor discussion around brands on social media and work on traditional advertisements. Unclear if they work in political contexts.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Ondore",
+    "associated_companies": "Ondore",
+    "office_city": [
+      "San Francisco",
+      "Mexico City"
+    ],
+    "office_country": [
+      "United States",
+      "Mexico"
+    ],
+    "website": "ondore.com",
+    "twitter": "https://twitter.com/Ondore",
+    "facebook": "https://www.facebook.com/OndoreMexico",
+    "linkedin": "http://www.linkedin.com/company/ondore",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Social Listening"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Todd Stein",
+      "Fernando Luege",
+      "Jorge Mendieta",
+      "Alexander Kouznetsov"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://web.ondore.com/pdf/ondore-scout-brochure-eng.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Offers a social listening platform, Ondore Scout, which can be used to track discussions about brands on social media. Unclear what contexts it is used in.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_de/5183426",
+      "https://opencorporates.com/companies/us_fl/F17000000298",
+      "https://opencorporates.com/companies/us_ca/C3513840"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "i360",
+    "associated_companies": "i360",
+    "office_city": [
+      "Toluca"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "https://www.i360.la/",
+    "twitter": null,
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/i360/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Social Media Management",
+      "Brand Management",
+      "Custom Software"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+      "pricewaterhousecoopers"
+    ],
+    "associated_people": [
+      "Juan Palomino",
+      "Rosario del Valle",
+      "William Rose"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "Email"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/in/juan-palomino-8b267023/",
+        "https://www.linkedin.com/in/rosario-del-valle-297233a3",
+        "https://www.linkedin.com/in/william-bj-rose-1a844b3 Press Releases:"
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Help brands with running marketing campaigns and also does custom software development. Unclear if they work in political contexts, but they made an app for viewing information related to Mexican legislation for PwC and one of their employees worked at PRI right before joining i360.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "DSPolitical",
+    "associated_companies": "DSPolitical",
+    "office_city": [
+      "Washington DC",
+      "Berkeley"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.dspolitical.com/",
+    "twitter": "https://www.twitter.com/dspolitical/",
+    "facebook": "https://www.facebook.com/dspolitical/",
+    "linkedin": "https://www.linkedin.com/company/dspolitical",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Targeted Advertising",
+      "Audience Segmentation",
+      "Full-Service Political Marketing"
+    ],
+    "customer_country": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Brazil",
+      "South Africa",
+      "Turkey",
+      "Sweden",
+      "Mexico"
+    ],
+    "known_customers": [
+      "Joe Donnelly",
+      "Heidi Heitkamp",
+      "Chris Murphy",
+      "Tammy Baldwin",
+      "Bob Menendez",
+      "United Food and Commercial Workers",
+      "Sadiq Khan"
+    ],
+    "associated_people": [
+      "Jim Walsh"
+    ],
+    "affiliated_companies": [
+      "Catalist",
+      "NGP VAN",
+      "DemList",
+      "Mellman Group"
+    ],
+    "data_sources": [
+      "Surveys",
+      "Social Media",
+      "Voter Databases"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "Geofencing/Location",
+      "Microtargeting"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.dspolitical.com/services/impact-analysis/",
+        "https://www.dspolitical.com/services/reaching-constituents/",
+        "https://www.dspolitical.com/services/reaching-custom-audiences/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://ourdataourselves.tacticaltech.org/posts/the-new-disruptors/"
+      ]
+    },
+    "description": "Social media marketing company focused on progressive campaigns around the world.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_dc/EXTUID_4105732",
+      "https://opencorporates.com/companies/us_dc/EXTUID_4149453"
+    ],
+    "searx_queries": "https://searx.me/?q=dspolitical&categories=news&language=en-US"
+  },
+  {
+    "name": "Liegey Muller Pons",
+    "associated_companies": "Liegey Muller Pons",
+    "office_city": [
+      "Paris"
+    ],
+    "office_country": [
+      "France"
+    ],
+    "website": "https://www.liegeymullerpons.fr/en/",
+    "twitter": "https://twitter.com/LMP_Tech",
+    "facebook": "https://www.facebook.com/LiegeyMullerPons/?ref=bookmarks",
+    "linkedin": "https://www.linkedin.com/company/liegey-muller-pons",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Full-Service Political Marketing"
+    ],
+    "customer_country": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "known_customers": [
+      "Emmanuel Macron",
+      "CFDT",
+      "Corrado Passera",
+      "François Hollande",
+      "Partido Socialista Obrero Español",
+      "Bavarian Green Party"
+    ],
+    "associated_people": [
+      "Guillaume Liegey",
+      "Arthur Muller",
+      "Vincent Pons",
+      "Hannah Bull",
+      "Olivier Herlem",
+      "Romain Damian",
+      "Benoit Rauturier",
+      "Grégoire Mialon",
+      "Hugo Foyart",
+      "Lois Riou",
+      "Karol Lewcio",
+      "Sami Ben-Yahia",
+      "Inès Levy",
+      "Fabrice Rivière",
+      "César Pierre",
+      "Johannes Hillje",
+      "Sibylle Meffre",
+      "Antoine Bianco",
+      "Antoine Bianco",
+      "A-C Deseilligny",
+      "Marion Germa"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Surveys",
+      "Voter Databases"
+    ],
+    "targeting_methods": [
+      "Door-to-Door"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.liegeymullerpons.fr/en/en-marche-la-grande-marche-2/",
+        "https://www.liegeymullerpons.fr/en/engie-green-rencontrer-les-riverains-dun-futur-parc-eolien-2/",
+        "https://www.liegeymullerpons.fr/en/cfdt-une-campagne-dadhesion-innovante-2/",
+        "https://www.liegeymullerpons.fr/en/italia-unica-la-campagne-municipale-la-plus-innovante-deurope-2/",
+        "https://www.liegeymullerpons.fr/en/the-psoe-bringing-canvassing-to-spain/",
+        "https://www.liegeymullerpons.fr/en/die-grunen-repenser-les-campagnes-en-baviere-2/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://ourdataourselves.tacticaltech.org/posts/the-new-disruptors/"
+      ]
+    },
+    "description": "Full-service political marketing company focused on European campaigns. They combined traditional campaigning techniques like canvassing with more advanced databases about voters, in particular their 50+ One voter database software. Their work seems to focus more on optimizing canvassing using data and campaign management rather than social media campaigns. They work on both political campaigns, as well as canvassing and surveys around political/social issues or for trade unions. Due to limitations on data available in Europe, they generally start with data at the neighborhood level rather than the individual level and collect additional data through door-to-door canvassing.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=%22Liegey%20Muller%20Pons%22&categories=news&language=en-US"
+  },
+  {
+    "name": "NGP VAN",
+    "associated_companies": "NGP VAN",
+    "office_city": [
+      "Washington DC",
+      "Somerville"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.ngpvan.com/",
+    "twitter": "https://twitter.com/NGPVAN",
+    "facebook": "https://www.facebook.com/NGPVAN/",
+    "linkedin": "https://www.linkedin.com/company/ngp-van",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Campaign Management Software"
+    ],
+    "customer_country": [
+      "United States",
+      "US Democratic Party"
+    ],
+    "known_customers": [
+      "Barack Obama"
+    ],
+    "associated_people": [
+      "Stu Trevelyan",
+      "John Lee",
+      "Michelle Stephenson",
+      "Melissa Wyers",
+      "Mike Liddell",
+      "Tuvinh Vuong",
+      "Amanda Coulombe",
+      "Mark Puleo",
+      "Louis Levine",
+      "Bryan Whitaker"
+    ],
+    "affiliated_companies": [
+      "DSPolitical"
+    ],
+    "data_sources": [
+      "Twitter",
+      "Facebook",
+      "Linkedin",
+      "Campaign-Collected Data"
+    ],
+    "targeting_methods": [
+      "Email",
+      "Social Media",
+      "Door-to-Door",
+      "Telemarketing"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.ngpvan.com/feature/targeted-email",
+        "https://www.ngpvan.com/feature/fundraising",
+        "https://www.ngpvan.com/feature/online-actions",
+        "https://www.ngpvan.com/feature/online-contributions",
+        "https://www.ngpvan.com/feature/compliance-reporting",
+        "https://www.ngpvan.com/feature/social-network-integration",
+        "https://www.ngpvan.com/feature/contact-management",
+        "https://www.ngpvan.com/feature/website",
+        "https://www.ngpvan.com/feature/event-management",
+        "https://act.ngpvan.com/digital8",
+        "https://act.ngpvan.com/action-center",
+        "https://act.ngpvan.com/casework",
+        "https://www.ngpvan.com/go/minivan-manager",
+        "https://act.ngpvan.com/paid-phones",
+        "https://act.ngpvan.com/votebuilder"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://ourdataourselves.tacticaltech.org/posts/the-new-disruptors/"
+      ]
+    },
+    "description": "Creates campaign management software with a focus on databases to help with fundraising and outreach. Their software also allows matching people in these databases to their social media profiles, and targeting the most influential of them. NGP VAN also creates tools for mobilizing volunteers using gamified campaign organization software. Mosty works with democrats in the US.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=NGP+VAN"
+    ],
+    "searx_queries": "https://searx.me/?q=%22NGP%20VAN%22&categories=news&language=en-US"
+  },
+  {
+    "name": "TargetSmart",
+    "associated_companies": "TargetSmart",
+    "office_city": [
+      "Washington DC"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://targetsmart.com/",
+    "twitter": "http://www.twitter.com/_targetsmart",
+    "facebook": "https://www.facebook.com/TargetSmart-160418807408255/",
+    "linkedin": "https://www.linkedin.com/company/targetsmart-communications-llc",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Voter Databases",
+      "Data Broker",
+      "Campaign Management Software"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Equals3"
+    ],
+    "associated_people": [
+      "Bryan Whitaker",
+      "TomBonier"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Telephone Directory/Database",
+      "Election Results",
+      "Real Estate Records",
+      "Telephone Directory/Database",
+      "License Data",
+      "Surveys",
+      "Consumer Purchase Data",
+      "Campaign Disclosures/Donation Data",
+      "Census",
+      "Surveys"
+    ],
+    "targeting_methods": [
+      "Email",
+      "Door-to-Door",
+      "Telemarketing",
+      "Mail",
+      "Social Media",
+      "Machine Learning"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://targetsmart.com/offering/cellbase-2/",
+        "https://targetsmart.com/offering/voterbase/",
+        "https://targetsmart.com/offering/intellibase/",
+        "https://targetsmart.com/offering/electionbase/",
+        "https://targetsmart.com/offering/contributorbase/",
+        "https://targetsmart.com/offering/exacttrack/",
+        "https://targetsmart.com/offering/voter-file-2-0/",
+        "https://targetsmart.com/offering/analytics-data-install/",
+        "https://targetsmart.com/offering/smartvan/",
+        "https://targetsmart.com/offering/polling/",
+        "https://targetsmart.com/offering/predictive-modeling/",
+        "https://targetsmart.com/offering/strategic-consulting/",
+        "https://targetsmart.com/offering/communications-service/",
+        "https://targetsmart.com/offering/data-enhancement-consulting-service/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://ourdataourselves.tacticaltech.org/posts/the-new-disruptors/",
+        "https://www.zdnet.com/article/yet-another-trove-of-sensitive-of-us-voter-records-has-leaked/"
+      ]
+    },
+    "description": "Primarily a database provider, with databases of voters, mobile phone numbers, consumer habits, campaign contributions, and more. They make software to help campaigns utilize and effectively combine these databases in a variety of campaigning techniques. TargetSmart also offers help campaigning, from predictive analytics to communications management. In 2017, a portion of their voter database was accidentally posted online by one of their customers.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=targetsmart"
+    ],
+    "searx_queries": "https://searx.me/?q=%22targetsmart%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Equals3",
+    "associated_companies": "Equals3",
+    "office_city": [
+      "Minneapolis"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "http://www.equals3.ai/",
+    "twitter": "https://twitter.com/equals3ai",
+    "facebook": "https://www.facebook.com/equals3ai/",
+    "linkedin": "https://www.linkedin.com/company/equals-3-llc",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Marketing AI"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Alaska Democratic Party"
+    ],
+    "associated_people": [
+      "Dan Mallin",
+      "Marc Dispensa",
+      "Marc Dispensa",
+      "Jodie Sasse",
+      "Rahul Singhal",
+      "Reed Robinson"
+    ],
+    "affiliated_companies": [
+      "TargetSmart",
+      "IBM"
+    ],
+    "data_sources": [
+      "Voter Databases",
+      "Twitter",
+      "Instagram",
+      "Consumer Purchase Data",
+      "eMarketer",
+      "Forrester",
+      "Dow Jones",
+      "Kantar",
+      "Nielsen",
+      "Media Ocean",
+      "Kantar",
+      "Ipsos",
+      "Omniture"
+    ],
+    "targeting_methods": [
+      "Machine Learning",
+      "Psychological Profiles"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "http://www.equals3.ai/ai-powered-enterprise-knowledge-management",
+        "http://www.equals3.ai/workflow-automation",
+        "http://www.equals3.ai/audience-segmentation",
+        "http://www.equals3.ai/ai-powered-media-optimization"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "http://www.ktuu.com/content/news/Around-593000-Alaskan-voter-records-exposed-online-Democrats-plan-to-use-same-data-company-444527993.html",
+        "https://www.zdnet.com/article/yet-another-trove-of-sensitive-of-us-voter-records-has-leaked/"
+      ]
+    },
+    "description": "AI-managed marketing software. Equals3's Lucy software helps people automate marketing campaigns by combining a variety of data sources and collecting additional information on the people involved to more effectively target them. Their software also builds personality profiles of people in their database based on data from a variety of sources. They appear to be working with the Democratic Party in Alaska because in 2017 they accidentally posted TargetSmart's data on Alaskan voters online",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Revolution Messaging",
+    "associated_companies": "Revolution Messaging",
+    "office_city": [
+      "Washington DC"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://revolutionmessaging.com/",
+    "twitter": "https://twitter.com/revmsg",
+    "facebook": "https://www.facebook.com/revmsg",
+    "linkedin": "https://www.linkedin.com/company/revolution-messaging",
+    "github": "https://github.com/revolution-messaging",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Campaign Management Software",
+      "Social Media Management"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "March for Racial Justice",
+      "Daily Action",
+      "Bernie Sanders",
+      "UltraViolet",
+      "Ohio Department of Education",
+      "Blackout for Human Rights",
+      "Teamsters",
+      "Maryland State Education Association"
+    ],
+    "associated_people": [
+      "Adili Ailixier",
+      "Kyle Allen",
+      "Sheila Angelo",
+      "Carla Aronsohn",
+      "Kim Bariring",
+      "Elizabeth Bennett",
+      "Douglas Busk",
+      "Camilo Caffi",
+      "Sean Carlson",
+      "Arun Chaudhary",
+      "Shelby Cole",
+      "Andrea Cory",
+      "Annabel Cromwell",
+      "Claire Daisey",
+      "Jonathan Dauz",
+      "Alejandro Diaz",
+      "McKinley Doty",
+      "Jon Eitler",
+      "Eric Elofson",
+      "Esteban Fernandez",
+      "Madeline Fishburn",
+      "Alaina Gercak",
+      "Sami Ghani",
+      "Dianne Gillespie",
+      "Scott Goodstein",
+      "Keegan Goudiss",
+      "Fred Guerrier",
+      "Gabe Hammersmith",
+      "Hilary Hess",
+      "Morgan Hill",
+      "David Holtz",
+      "Arianna Jones",
+      "Oliver Larkin",
+      "Dae Levine",
+      "Sam Lozier",
+      "Aurea Martinez",
+      "Erin McCallum",
+      "Dana McDonough",
+      "Andrea Millman",
+      "Josh Minnich",
+      "Taramarie Mitravich",
+      "Heather Mytelka",
+      "Bianca Neptune",
+      "Michelle Ng",
+      "Alicia Oken",
+      "Jennifer Osias",
+      "Kate O’Connell",
+      "Ben Page-Gil",
+      "Joe Pahl",
+      "Anna Papazian",
+      "Cabot Lee Petoia",
+      "Virginia Purcell",
+      "Hina Razzaq",
+      "Willie Roberson",
+      "Sam Robertson",
+      "Laura Rodriguez",
+      "Matt Royer",
+      "Jeff Rummel",
+      "Eve Samborn",
+      "Sandra Sanchez",
+      "Greg Sensing",
+      "Chelsea Skovgaard",
+      "Becca Stevens",
+      "Maeve Stier",
+      "Robert Swanger",
+      "Matthew Uttendorf",
+      "Madeleine Valley",
+      "Kelly Vingelis",
+      "Eden Joyner White",
+      "Karima Williams",
+      "Daphne Zhang"
+    ],
+    "affiliated_companies": [
+      "EveryAction"
+    ],
+    "data_sources": [
+      "Campaign-Collected Data"
+    ],
+    "targeting_methods": [
+      "SMS",
+      "Telemarketing",
+      "Social Media",
+      "Cookies/Devices IDs",
+      "Email"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://revolutionmessaging.com/cases/m4rj",
+        "https://revolutionmessaging.com/cases/daily-action",
+        "https://revolutionmessaging.com/cases/bernie-2016",
+        "https://revolutionmessaging.com/cases/ultraviolet",
+        "https://revolutionmessaging.com/cases/know-your-charter",
+        "https://revolutionmessaging.com/cases/blackoutforhumanrights",
+        "https://revolutionmessaging.com/cases/teamsters",
+        "https://revolutionmessaging.com/cases/msea",
+        "https://revolutionmessaging.com/cases/msea",
+        "https://revolutionmessaging.com/revere/calling",
+        "https://revolutionmessaging.com/revere/exchange",
+        "https://revolutionmessaging.com/revere/direction"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Creates software for managing SMS, calling, and online advertising campaigns. They also offer a variety of services to campaigns ranging from advertising and social media management to fundraising. Mostly seems to work with progressive campaigns and causes, as well as some state agencies, in the US.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_nd/42773600",
+      "https://opencorporates.com/companies/us_dc/EXTUID_2896377"
+    ],
+    "searx_queries": "https://searx.me/?q=%22revolution%20messaging%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Cosmonauts and Kings",
+    "associated_companies": "Cosmonauts and Kings",
+    "office_city": [
+      "Berlin"
+    ],
+    "office_country": [
+      "Germany"
+    ],
+    "website": "https://www.cosmonautsandkings.com/",
+    "twitter": "https://twitter.com/cosmonautskings",
+    "facebook": "https://www.facebook.com/cosmonautskings/",
+    "linkedin": "https://www.linkedin.com/company-beta/10689364/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Full-Service Political Marketing",
+      "Campaign/Brand Management"
+    ],
+    "customer_country": [
+      "Germany"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Juri Schnöller",
+      "Jochen König"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Campaign-Collected Data"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "Email"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "http://www.business-punk.com/2017/09/wahlkampf-big-data-storytelling-marketing/",
+        "https://www.politik-kommunikation.de/ressorts/artikel/drei-herausforderungen-fuer-digitale-kampagnen-zur-btw17-989031970"
+      ]
+    },
+    "description": "German data-based political marketing company started in 2016. There isn't great detail about their methods online, but it sounds like they use fairly standard techniques for audience segmentation and targeting, and also offer support with communication and advertising strategy.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=%22cosmonauts%20%26%20kings%22&categories=news&language=de"
+  },
+  {
+    "name": "YouGov",
+    "associated_companies": "YouGov",
+    "office_city": [
+      "London",
+      "Manchester",
+      "Paris"
+    ],
+    "office_country": [
+      "United Kingdom",
+      "France"
+    ],
+    "website": "https://yougov.co.uk/",
+    "twitter": "https://twitter.com/YouGov",
+    "facebook": "https://www.facebook.com/YouGov",
+    "linkedin": "https://www.linkedin.com/company/yougov",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Surveys",
+      "Social Listening"
+    ],
+    "customer_country": [
+      "United Kingdom",
+      "United States",
+      "Australia",
+      "Greece",
+      "France",
+      "Norway",
+      "Singapore",
+      "Malaysia",
+      "Romania",
+      "Finland",
+      "Sweden",
+      "Denmark",
+      "Thailand"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Stephan Shakespeare",
+      "Nadhim Zahawi",
+      "Roger Parry"
+    ],
+    "affiliated_companies": [
+      "Siraj",
+      "Polimetrix",
+      "Zapera",
+      "Psychonomics",
+      "Clear Horizons",
+      "Harrison Group",
+      "Decision Fuel"
+    ],
+    "data_sources": [
+      "Surveys",
+      "Census",
+      "Election Results",
+      "ONS population estimates",
+      "TV Audience Measurement",
+      "Radio Listenership",
+      "Print Readership",
+      "Browsing Data",
+      "App Usage Data",
+      "Facebook",
+      "Twitter"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "https://d25d2506sfb94s.cloudfront.net/r/53/2017_2_ProfilesRC.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://yougov.co.uk/about/investors/shareholders/",
+        "https://yougov.co.uk/about/panel-methodology/",
+        "https://yougov.co.uk/find-solutions/brandindex/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Runs online opinion polls on a variety of issues internationally. They have pools of people that they ask survey questions, and also pull in data from social media and other sources to help brands understand their image. They are starting to get into the audience segmentation business too. YouGov is quite large and has acquired a number of related companies.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=yougov"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Reform Act",
+    "associated_companies": "Reform Act",
+    "office_city": [
+      "Stockholm",
+      "Coppenhagen"
+    ],
+    "office_country": [
+      "Sweden",
+      "Denmark"
+    ],
+    "website": "http://www.reformact.se",
+    "twitter": null,
+    "facebook": "https://www.facebook.com/ReformActNow/",
+    "linkedin": "https://www.linkedin.com/company/reform-act",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Campaign/Brand Management",
+      "Targeted Advertising"
+    ],
+    "customer_country": [
+      "Sweden"
+    ],
+    "known_customers": [
+      "Save the Children",
+      "IOGT-NTO Movement",
+      "Brain Fund",
+      "STF",
+      "Amnesty."
+    ],
+    "associated_people": [
+      "Jakob Ohlsson",
+      "Anna Sahlin",
+      "Åsa Hammarström",
+      "Birgitta Pagot",
+      "Carmen Manzano",
+      "Christian Gonzalez",
+      "Cristian Pencheff",
+      "Elias Notini",
+      "Emanuel Friberg",
+      "Emelie Signal",
+      "Jacob Åström",
+      "Jesper Jarl",
+      "Jesper Rogner",
+      "Josephine Moghim-Khah",
+      "Lena Dahlenborg",
+      "Linus Nyström",
+      "Lovisa Lindvall",
+      "Maria Liem",
+      "Paul Ferris",
+      "Pernilla Lundmark",
+      "Petter Törnqvist",
+      "Reenu Chawla Wallin",
+      "Rodrigo Ramos",
+      "Sabine Hourani",
+      "Tobias Vestergren",
+      "Viken Wetlesen",
+      "Yara Anttila",
+      "Yoel Tecle"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media"
+    ],
+    "targeting_methods": [
+      "Social Media"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://medium.com/@reformact/reform-act-s%C3%B6ker-digital-produktionsledare-6dd33582dcf4"
+      ]
+    },
+    "description": "A Swedish political communications company. They run campaigns for a variety of organizations, mostly related to social and political issues. Reform Act mostly seems to work on digital campaigns.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/dk/38377140"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "pig.gi",
+    "associated_companies": "pig.gi",
+    "office_city": [
+      "Mexico City"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "https://pig.gi/",
+    "twitter": "https://twitter.com/PiggiApp",
+    "facebook": "https://www.facebook.com/piggiapp",
+    "linkedin": "https://www.linkedin.com/company/pig.gi/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection"
+    ],
+    "products_services_category": [
+      "Surveys"
+    ],
+    "customer_country": [
+      "Mexico",
+      "Colombia"
+    ],
+    "known_customers": [
+      "Cambridge Analytica"
+    ],
+    "associated_people": [
+      "Isaac Phillips",
+      "Joel Phillips"
+    ],
+    "affiliated_companies": [
+      "Farrow Colombia S.A.S",
+      "Farrow Mexico S.A.P.I. de CV"
+    ],
+    "data_sources": [
+      "Surveys"
+    ],
+    "targeting_methods": [
+      "Mobile Apps"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://play.google.com/store/apps/details?id=farrow.pig.gi&hl=en_US",
+        "https://www.crunchbase.com/organization/pig-gi",
+        "https://www.bloomberg.com/news/articles/2018-03-22/cambridge-analytica-associate-severs-mexico-ties-after-scandal",
+        "http://www.miaminewtimes.com/news/cambridge-analytica-involved-in-latin-american-elections-10189762",
+        "https://www.reuters.com/article/us-colombia-cambridge-analytica/colombia-blocks-app-it-says-possibly-linked-to-cambridge-analytica-idUSKBN1H42CL"
+      ]
+    },
+    "description": "Pays people with phone time and similar for filling out surveys on a variety of topics on their app. They also display ads for brands on their app. pig.gi shared some data with Cambridge Analytica but reportedly severed ties after recent scandals.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=%22pig.gi%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Amazon Mehanial Turk",
+    "associated_companies": "Amazon Mehanial Turk",
+    "office_city": [
+      "Seattle"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.mturk.com/",
+    "twitter": "https://twitter.com/amazonmturk",
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/amazon-s-mechanical-turk",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection"
+    ],
+    "products_services_category": [
+      "Surveys",
+      "Crowdsourcing"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Global Science Research"
+    ],
+    "associated_people": [
+
+    ],
+    "affiliated_companies": [
+      "Amazon"
+    ],
+    "data_sources": [
+      "Surveys"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.fastcompany.com/40548348/how-amazon-helped-cambridge-analytica-harvest-americans-facebook-data",
+        "https://www.theguardian.com/news/2018/may/06/cambridge-analytica-how-turn-clicks-into-votes-christopher-wylie"
+      ]
+    },
+    "description": "Amazon Mechanical Turk is a platform where researchers can post surveys as well as a variety of mundane tasks that (currently or historically) are difficult for  machines to perform(such as image classification and transcription),. In exchange, people all over the world are paid a little bit to complete the tasks.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_de/4012787",
+      "https://opencorporates.com/companies/us_ca/C3543360",
+      "https://opencorporates.com/companies/us_wa/602551095"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Twitter",
+    "associated_companies": "Twitter",
+    "office_city": [
+      "San Francisco"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://twitter.com/",
+    "twitter": "https://twitter.com/Twitter",
+    "facebook": "https://www.facebook.com/TwitterInc/",
+    "linkedin": "https://www.linkedin.com/company/twitter",
+    "github": "https://github.com/twitter",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Social Media",
+      "Data Broker",
+      "Advertisements"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Jack Dorsey"
+    ],
+    "affiliated_companies": [
+      "Gnip"
+    ],
+    "data_sources": [
+      "Social Media",
+      "Twitter",
+      "Campaign-Collected Data",
+      "Data Brokers",
+      "Browsing Data",
+      "Search Queries",
+      "Consumer Purchase Data",
+      "Acxiom",
+      "Datalogix"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "Twitter",
+      "Website Visitors",
+      "Mobile Apps",
+      "Lookalike Audiences",
+      "Purchasing Behavior",
+      "Geolocation Data",
+      "Contacts/Social Connections",
+      "Demographics",
+      "Search Terms"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://business.twitter.com/en/targeting.html"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Twitter is a social media website that also sells data and advertisements. Companies and researchers can buy data from particular accounts, coming from certain geographic areas, or about certain topics. Continuous access to various quantities of data can be purchased, or historical data can be purchased one time. A subset of this data is available for free via Twitter's API.<br />Twitter allows companies to target advertisements based on lists of accounts/emails/phone numbers, audiences like known customers or followers of other accounts, website visitors or app users, search queries, interests, devices, geographic area, purchasing behaviors (based on data from data brokers), language, or gender. Users are then shown advertisements, usually in the form of tweets, and advertisers pay based on the number of impressions, clicks, engagements, followers, etc. Twitter operates its advertisement program and sells data in most countries.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Facebook",
+    "associated_companies": "Facebook",
+    "office_city": [
+      "Menlo Park"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/facebook",
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/facebook",
+    "github": "https://github.com/facebook",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Social Media",
+      "Advertisements"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Mark Zuckerberg"
+    ],
+    "affiliated_companies": [
+      "Instagram",
+      "WhatsApp"
+    ],
+    "data_sources": [
+      "Social Media",
+      "Facebook",
+      "Campaign-Collected Data",
+      "Data Brokers",
+      "Browsing Data",
+      "Quantium",
+      "Experian",
+      "Epsilon",
+      "CCC",
+      "Geolocation Data",
+      "Data Brokers",
+      "Oracle Data Cloud",
+      "KBM Group",
+      "Acxiom"
+    ],
+    "targeting_methods": [
+      "Advertisements",
+      "Social Media",
+      "Twitter",
+      "Mobile Apps",
+      "Website Visitors",
+      "Lookalike Audiences",
+      "Demographics"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.facebook.com/business/products/audience-network",
+        "https://web.archive.org/web/20161022040949/https://www.facebook.com/business/success/claudia-pavlovich/",
+        "https://web.archive.org/web/20161022041114/www.facebook.com/business/success?categories[0]=government-politics"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+        "https://web.archive.org/web/20161022040949/https://www.facebook.com/business/success/claudia-pavlovich/",
+        "https://web.archive.org/web/20161022041114/www.facebook.com/business/success?categories[0]=government-politics"
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Facebook allows targeting of advertisements based on interests, behaviors, location, and demographics. It also allows targeting groups like website visitors, app users, and audiences that look like existing audiences. It also provides a list of companies who can assist with advertising on Facebook. including data brokers who can augment custom audience lists. Additionally, data is available via the API and some app developers collect data from users via their apps, as Global Science Research did (and then sold it to Cambridge Analytica). Similar services are also offered on Instagram.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Nicestream",
+    "associated_companies": "Nicestream",
+    "office_city": [
+      "Buenos Aires",
+      "Montevideo",
+      "Madrid"
+    ],
+    "office_country": [
+      "Mexico",
+      "Spain",
+      "Honduras",
+      "Guatemala",
+      "Colombia",
+      "Ecuador",
+      "Chile"
+    ],
+    "website": "http://nicestream.com/",
+    "twitter": "https://twitter.com/nicestream",
+    "facebook": "https://es-la.facebook.com/nicestream/",
+    "linkedin": "https://www.linkedin.com/company/nicestream",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Campaign/Brand Management",
+      "Full-Service Political Marketing"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Carlos Ibañez",
+      "Clara Rodriguez Celin",
+      "Nando Acosta",
+      "Diego Barcia"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media",
+      "Consumer Purchase Data",
+      "Contacts/Social Connections",
+      "Data Brokers"
+    ],
+    "targeting_methods": [
+      "Social Media"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Analyzes perceptions of brands on social media and attempts to predict future behavior from data. They also run social media campaigns for customers.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=nicestream&categories=news&language=es"
+  },
+  {
+    "name": "Datametrix",
+    "associated_companies": "Datametrix",
+    "office_city": [
+      "Guadalajara"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://andreselias.com/",
+    "twitter": "https://twitter.com/andreseliascom",
+    "facebook": "https://www.facebook.com/AndresEliasD",
+    "linkedin": "https://www.linkedin.com/in/andreseliascom/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Social Listening"
+    ],
+    "customer_country": [
+      "Mexico"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Andrés Elías"
+    ],
+    "affiliated_companies": [
+      "Acciones Estratégicas"
+    ],
+    "data_sources": [
+      "Facebook",
+      "Twitter",
+      "Forums",
+      "Websites/Blogs",
+      "News",
+      "Social Media"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "http://andreselias.com/2018/02/14/datametrix-big-data-para-mexico-y-latinoamerica/",
+        "http://andreselias.com/2018/02/12/7-preguntas-que-seguramente-te-has-hecho-sobre-datametrix/",
+        "http://andreselias.com/2018/01/22/social-listening-tecnologia-de-punta-para-estas-elecciones/",
+        "http://andreselias.com/2018/01/04/consejos-practicos-para-posicionarte-en-la-delantera-electoral-para-este-2018/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Monitors discussion of campaigns online, and identifies influencers and potential voters.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=datametrix&categories=news&language=es"
+  },
+  {
+    "name": "Adwords",
+    "associated_companies": "Adwords",
+    "office_city": [
+      "Mountain View"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://adwords.google.com",
+    "twitter": "https://twitter.com/adwords",
+    "facebook": "https://www.facebook.com/ENadwords/",
+    "linkedin": null,
+    "github": "https://github.com/googleads",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Advertisements"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+
+    ],
+    "affiliated_companies": [
+      "Google",
+      "AOL",
+      "Ask.com",
+      "Netscape",
+      "Youtube"
+    ],
+    "data_sources": [
+      "Search Queries"
+    ],
+    "targeting_methods": [
+      "Search Engines",
+      "Mobile Apps",
+      "Websites/Blogs",
+      "GMail",
+      "Youtube",
+      "Demographics",
+      "Geolocation Data",
+      "Search Terms",
+      "Lookalike Audiences",
+      "Website Visitors",
+      "Google",
+      "AOL Search",
+      "Ask.com",
+      "Netscape"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://support.google.com/adwords/answer/1704368?_ga=2.268636153.926702915.1527187157-682263491.1527187157"
+      ]
+    },
+    "description": "Google's advertisement network, which shows ads on Google website (including Youtube and GMail), other search engines, as well as other websites and mobile apps. It is split into the Search Network, which shows text advertisements on search engines, and the Display Network, which shows targeting on a wider variety of websites. Allows targeting based on demographics, search terms, website visitors, similar audiences, etc.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Reddit",
+    "associated_companies": "Reddit",
+    "office_city": [
+      "San Francisco"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.redditinc.com/advertising",
+    "twitter": "https://twitter.com/reddit",
+    "facebook": "https://www.facebook.com/reddit/",
+    "linkedin": "https://www.linkedin.com/company/reddit-com",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Advertisements",
+      "Social Media"
+    ],
+    "customer_country": null,
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Alexis Ohanian",
+      "Steve Huffman"
+    ],
+    "affiliated_companies": [
+      "Advance Publications"
+    ],
+    "data_sources": [
+      "Reddit"
+    ],
+    "targeting_methods": [
+      "Geofencing/Location",
+      "Behavior",
+      "Reddit"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.reddithelp.com/en/categories/advertising/targeting-your-audience/targeting-interests"
+      ]
+    },
+    "description": "Discussion website that allows advertising. Allows advertisement targeting by location, device, subreddit, and interests (as determined by browsing and participation behavior).",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Emerdata",
+    "associated_companies": "Emerdata",
+    "office_city": [
+      "London"
+    ],
+    "office_country": [
+      "United Kingdom"
+    ],
+    "website": null,
+    "twitter": null,
+    "facebook": null,
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": null,
+    "products_services_category": null,
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Jennifer Mercer",
+      "Rebekah Mercer",
+      "Ahmad Al Khatib",
+      "Johnson Chun Shun Ko",
+      "Cheng Peng",
+      "Julian David Wheatland",
+      "Alexander Nix"
+    ],
+    "affiliated_companies": [
+      "Cambridge Analytica",
+      "Firecrest Technologies"
+    ],
+    "data_sources": [
+
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.businessinsider.de/alexander-nix-allegedly-took-8-million-cambridge-analytica-2018-6"
+      ]
+    },
+    "description": "A company started in August 2017. It has many of the same people involved as Cambridge Analytica. Emerdata does not seem to have much internet presence, but they reportedly raised $19 million from investors in January 2018 and loaned $8.8 million of it to Cambridge Analytica.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/gb/10911848"
+    ],
+    "searx_queries": "https://searx.me/?q=emerdata&categories=news&language=en-US"
+  },
+  {
+    "name": "Firecrest Technologies",
+    "associated_companies": "Firecrest Technologies",
+    "office_city": [
+      "London"
+    ],
+    "office_country": [
+      "United Kingdom"
+    ],
+    "website": null,
+    "twitter": null,
+    "facebook": null,
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": null,
+    "products_services_category": null,
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Alexander Nix"
+    ],
+    "affiliated_companies": [
+      "Emerdata",
+      "Cambridge Analytica"
+    ],
+    "data_sources": [
+
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.bloomberg.com/news/articles/2018-05-08/cambridge-analytica-won-t-be-revived-under-new-company-name"
+      ]
+    },
+    "description": "A company primarily owned by Emerdata that was incorporated by Alexander Nix in March 2018, around the time the Cambridge Analytica scandal broke. Supposedly it will be closed along with other companies and other companies associated with Cambridge Analytica.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/gb/11238956"
+    ],
+    "searx_queries": "https://searx.me/?q=%22firecrest%20technologies%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Qualtrics",
+    "associated_companies": "Qualtrics",
+    "office_city": [
+      "Provo",
+      "Seattle",
+      "Washington DC",
+      "Dallas",
+      "Sydney",
+      "Melbourne",
+      "Munich"
+    ],
+    "office_country": [
+      "United States",
+      "Australia",
+      "Germany",
+      "United Kingdom",
+      "Ireland"
+    ],
+    "website": "https://www.qualtrics.com",
+    "twitter": "https://twitter.com/Qualtrics/",
+    "facebook": "https://www.facebook.com/Qualtrics/",
+    "linkedin": "https://www.linkedin.com/company/qualtrics",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection"
+    ],
+    "products_services_category": [
+      "Surveys"
+    ],
+    "customer_country": [
+
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Ryan Smith",
+      "Scott M. Smith",
+      "Jared Smith",
+      "Stuart Orgill"
+    ],
+    "affiliated_companies": [
+      "Statwing",
+      "Delighted"
+    ],
+    "data_sources": [
+      "Surveys",
+      "Receipts"
+    ],
+    "targeting_methods": [
+      "Behavior",
+      "Geolocation Data",
+      "Social Media",
+      "Email",
+      "SMS",
+      "Websites/Blogs",
+      "Door-to-Door"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "https://www.qualtrics.com/docs/PresidentialAdWarTest.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Widely used survey creation platform. Qualtrics allows creation of surveys in many formats, which can be delivered via websites (including via sites like Mechanical Turk), email, SMS, offline, etc. They also offer survey-related consulting and research services.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=qualtrics"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Global Science Research",
+    "associated_companies": "Global Science Research",
+    "office_city": [
+      "Manchester"
+    ],
+    "office_country": [
+      "United Kingdom"
+    ],
+    "website": "http://www.globalscienceresearch.com/",
+    "twitter": null,
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/global-science-research",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Political Psychology"
+    ],
+    "customer_country": [
+      "United Kingdom",
+      "United States"
+    ],
+    "known_customers": [
+      "Cambridge Analytica"
+    ],
+    "associated_people": [
+      "Joseph Chancellor",
+      "Aleksandr Kogan"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Facebook",
+      "Surveys",
+      "Psychographic/Personality Tests",
+      "Social Media"
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Written-evidence-Aleksandr-Kogan.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Dr-Kogan-PowerPoint-presentation-How-accurate-are-predictions.pptx"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://web.archive.org/web/20160215145911/http://www.globalscienceresearch.com/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+        "https://web.archive.org/web/20160215145911/http://www.globalscienceresearch.com/"
+      ],
+      "news": [
+        "https://www.theguardian.com/news/2018/mar/18/facebook-cambridge-analytica-joseph-chancellor-gsr",
+        "https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election"
+      ]
+    },
+    "description": "Created psychological profiles for marketing purposes. They offered three main products/services- BrandAnalyzer, BrandAnalyzer API, and custom analytics. BrandAnalyzer shows psychological profiles of customers of over 15,000 brands. The BrandAnalyzer API provides similar psychological analysis using social media data from clients. The custom analytics are custom psychological profiling studies, likely similar to what they offered Cambridge Analytica.<br />Global Science Research collected data on over 50 million people via a Facebook application for personality tests called thisyourdigitallife. They then gave this data to Cambridge Analytica.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/gb/09060785"
+    ],
+    "searx_queries": "https://searx.me/?q=%22global%20science%20research%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Acxiom",
+    "associated_companies": "Acxiom",
+    "office_city": [
+      "Conway",
+      "Chicago",
+      "New York",
+      "Foster City",
+      "Burlington",
+      "Nashville",
+      "Austin"
+    ],
+    "office_country": [
+      "United States",
+      "Australia",
+      "France",
+      "Germany",
+      "Japan",
+      "China",
+      "United"
+    ],
+    "website": "https://www.acxiom.com/",
+    "twitter": "https://twitter.com/Acxiom",
+    "facebook": "https://www.facebook.com/acxiomcorp",
+    "linkedin": "https://www.linkedin.com/company/acxiom",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Data Broker",
+      "Identity Resolution"
+    ],
+    "customer_country": [
+      "United States",
+      "France",
+      "Germany",
+      "Japan",
+      "China",
+      "United Kingdom",
+      "Poland"
+    ],
+    "known_customers": [
+      "Twitter",
+      "Facebook"
+    ],
+    "associated_people": [
+      "Scott Howe",
+      "Warren C. Jenson",
+      "James Arra",
+      "Anneka Gupta",
+      "Rick Erwin",
+      "Dennis D. Self",
+      "Jerry C. Jones",
+      "Sheila Colclasure",
+      "Justin Schuster",
+      "Janet Cinfio",
+      "David Eisenberg"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Consumer Purchase Data",
+      "Real Estate Records",
+      "Data Brokers"
+    ],
+    "targeting_methods": [
+      "TV",
+      "Websites/Blogs",
+      "Social Media"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "https://www.acxiom.com/wp-content/uploads/2015/01/POV-Murky-Marketing-Ecosystem-2.pdf",
+        "https://www.acxiom.com/wp-content/uploads/2017/03/AC-0068-17-FS-Acxiom-Audience-Cloud.pdf",
+        "https://www.acxiom.com/wp-content/uploads/2017/03/AC-0492-16-FL-Audience-Interconnect-for-Agencies.pdf",
+        "https://www.acxiom.com/wp-content/uploads/2017/03/AC-1050-15-FL-AI-Solutions-Overview-Sellers.pdf",
+        "https://www.acxiom.com/wp-content/uploads/2017/03/BRO-AbiliTec_web.pdf",
+        "https://d1yvewpi1aplok.cloudfront.net/wp-content/uploads/2018/04/Acxiom_Data_Overview.pdf",
+        "https://s21.q4cdn.com/580938034/files/doc_news/Acxiom-Announces-Change-to-Facebook-Relationship.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Major data broker that collects data from a wide variety of sources. They sell data and match up the identities of people across data sources. Acxiom also offers consulting services to help organizations use their data. They created a website (https://aboutthedata.com) that explains how targeted advertising works and offers to let people control how their data is used, but also likely collects data in the process.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=acxiom"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "AggregateIQ",
+    "associated_companies": "AggregateIQ",
+    "office_city": [
+      "Victoria"
+    ],
+    "office_country": [
+      "Canada"
+    ],
+    "website": "https://aggregateiq.com/",
+    "twitter": null,
+    "facebook": null,
+    "linkedin": null,
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Campaign Management Software",
+      "Voter Databases"
+    ],
+    "customer_country": [
+      "United Kingdom",
+      "United States",
+      "Canada",
+      "Trinidad and Tobago"
+    ],
+    "known_customers": [
+      "Ted Cruz",
+      "Greg Abbott",
+      "John Bolton",
+      "Thom Tilllis",
+      "Vote Leave",
+      "BeLeave",
+      "Veterans for Britain",
+      "Democratic Unionist Party",
+      "Countryside Alliance",
+      "Todd Stone",
+      "Mike de Jong",
+      "Doug Clovechok",
+      "David Calder",
+      "Green Party of British Columbia",
+      "Andy Wells"
+    ],
+    "associated_people": [
+      "Zack Massingham",
+      "Christopher Wylie",
+      "Jeff Silvester"
+    ],
+    "affiliated_companies": [
+      "Cambridge Analytica",
+      "SCL Group"
+    ],
+    "data_sources": [
+      "Campaign-Collected Data",
+      "Voter Databases",
+      "Facebook",
+      "Surveys"
+    ],
+    "targeting_methods": [
+      "Microtargeting",
+      "Door-to-Door",
+      "Telemarketing",
+      "Email",
+      "Facebook",
+      "Social Media",
+      "Advertisements",
+      "Geolocation Data",
+      "Contacts/Social Connections",
+      "Behavior"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/written/82912.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.upguard.com/breaches/aggregate-iq-part-one",
+        "https://www.upguard.com/breaches/aggregate-iq-part-two-brexit",
+        "https://www.upguard.com/breaches/aggregate-iq-part-three-monarch",
+        "https://www.upguard.com/breaches/aggregate-iq-part-four-canada",
+        "https://www.theguardian.com/us-news/2018/apr/06/facebook-suspends-aggregate-iq-cambridge-analytica-vote-leave-brexit",
+        "https://www.telegraph.co.uk/news/2017/02/24/exclusive-tiny-canadian-company-helped-swing-brexit-vote-leave/",
+        "https://www.theguardian.com/uk-news/2018/mar/24/aggregateiq-data-firm-link-raises-leave-group-questions"
+      ]
+    },
+    "description": "AggregateIQ makes campaign management software, including tools for managing outreach campaigns and voter databases. Most notably, they created Ripon as part of a contract with SCL Group, which was used as a database for Ted Cruz's campaign. They also built software for automating advertising campaigns. Upguard found AggregateIQ's Gitlab repository online in March 2018 and published a series of articles analyzing their software and clients.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "SCL Group",
+    "associated_companies": "SCL Group",
+    "office_city": [
+      "London",
+      "Skopje",
+      "New York",
+      "Washington DC",
+      "Kuala Lumpur",
+      "Manila",
+      "Buenos"
+    ],
+    "office_country": [
+      "United Kingdom",
+      "Macedonia",
+      "United States",
+      "Malaysia",
+      "Philippines"
+    ],
+    "website": "https://www.sclgroup.cc",
+    "twitter": "https://twitter.com/thesclgroup",
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/scl-group",
+    "github": "https://github.com/SCLElections",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Influence Operations",
+      "Surveys",
+      "Political Psychology",
+      "Full-Service Political Marketing"
+    ],
+    "customer_country": [
+      "United States",
+      "United Kingdom",
+      "Ghana",
+      "Mexico",
+      "Afghanistan",
+      "Nepal",
+      "Rwanda",
+      "Libya",
+      "Ukraine",
+      "South Sudan",
+      "Somalia",
+      "Pakistan",
+      "Yemen"
+    ],
+    "known_customers": [
+      "State Department",
+      "NATO",
+      "United Nations"
+    ],
+    "associated_people": [
+      "Nigel John Oakes",
+      "Roger Michael Gabb",
+      "Alexander Nix",
+      "Julian David Wheatland"
+    ],
+    "affiliated_companies": [
+      "Cambridge Analytica",
+      "AggregateIQ"
+    ],
+    "data_sources": [
+      "Surveys",
+      "Census",
+      "Social Media"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "TV",
+      "Radio",
+      "Print Publications",
+      "Advertisements",
+      "Third Party Endorsements",
+      "Microtargeting"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "./scl_group/380435224-SCL-Cambridge-Analytica-Project-Titania-Plan-for-Yemen-Part-Two.pdf"
+      ],
+      "local_pdf": [
+        "/scl_group/380434279-SCL-Cambridge-Analytica-Project-Titania-Yemen-Plan.pdf"
+      ],
+      "company_website": [
+        "https://www.sclgroup.cc/customers",
+        "https://www.sclgroup.cc/capabilities",
+        "https://www.sclgroup.cc/projects/ghana/",
+        "https://www.sclgroup.cc/projects/pakistan/",
+        "https://www.sclgroup.cc/projects/somalia/",
+        "https://www.sclgroup.cc/projects/sudana/",
+        "https://www.sclgroup.cc/projects/rwanda/",
+        "https://www.sclgroup.cc/projects/cacz/",
+        "https://www.sclgroup.cc/projects/sord/",
+        "https://www.sclgroup.cc/projects/pcb/",
+        "https://www.sclgroup.cc/projects/southeastasia/",
+        "https://www.sclgroup.cc/projects/mexico/",
+        "https://www.sclgroup.cc/projects/afhane/",
+        "https://www.sclgroup.cc/projects/nepal/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.state.gov/r/pa/prs/dpb/2018/03/279424.htm",
+        "https://grayzoneproject.com/2018/05/23/scl-group-yemen-surveillance-cambridge-analytica/",
+        "https://grayzoneproject.com/2018/05/30/internal-cambridge-analytica-documents-reveal-private-intelligence-links-to-mass-surveillance-program/"
+      ]
+    },
+    "description": "Parent company of Cambridge Analytica. Used data-driven political marketing techniques to influence elections around the world. Also worked extensively in influence operations for the defense and intelligence industries.",
+    "legal_entities": [
+      "https://api.opencorporates.com/v0.4/companies/search?q=scl+group",
+      "https://opencorporates.com/companies/gb/08256225"
+    ],
+    "searx_queries": "https://searx.me/?q=%22SCL%20Group%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Cambridge Analytica",
+    "associated_companies": "Cambridge Analytica",
+    "office_city": [
+      "New York",
+      "Washington DC",
+      "London"
+    ],
+    "office_country": [
+      "United States",
+      "United Kingdom"
+    ],
+    "website": "https://cambridgeanalytica.org/",
+    "twitter": "https://twitter.com/camanalytica",
+    "facebook": "https://www.facebook.com/cambridgeanalyticainc/",
+    "linkedin": "https://www.linkedin.com/company/cambridge-analytica/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Full-Service Political Marketing"
+    ],
+    "customer_country": [
+      "United States",
+      "Lithuania",
+      "Benin",
+      "Ethiopia",
+      "Libya",
+      "Kenya",
+      "Mexico",
+      "India",
+      "United Kingdom"
+    ],
+    "known_customers": [
+      "PRI",
+      "Uhuru Kenyatta",
+      "Indian National Congress",
+      "Leave.EU",
+      "Vote Leave",
+      "John Bolton Super PAC",
+      "Ted Cruz",
+      "Donald Trump"
+    ],
+    "associated_people": [
+      "Alexander Nix",
+      "Robert Mercer",
+      "Rebekah Mercer",
+      "Steve Bannon",
+      "Brittany Kaiser",
+      "Christopher Wylie"
+    ],
+    "affiliated_companies": [
+      "SCL Group",
+      "Global Science Research",
+      "AggregateIQ",
+      "Emerdata",
+      "Firecrest Technologies"
+    ],
+    "data_sources": [
+      "Facebook",
+      "Surveys",
+      "Psychographic/Personality Tests",
+      "Demographic Data",
+      "Consumer Purchase Data",
+      "Geolocation Data",
+      "Twitter",
+      "Youtube"
+    ],
+    "targeting_methods": [
+      "Social Media",
+      "Advertising",
+      "Microtargeting",
+      "TV",
+      "Google",
+      "Youtube",
+      "Facebook",
+      "Twitter"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/written/81874.pdf",
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/written/81556.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Chris-Vickery-Flow-chart-SCL-CA-AIQ-PUBLIC.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Background-paper-Brittany-Kaiser-emails-REDACTED.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Brittany%20Kaiser%20Parliamentary%20testimony%20FINAL.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/BK%20Background%20paper%20-%20Cambridge%20Analytica%20proposals%20to%20Leave%20Eldon%20GoSkippy%20UKIP.pdf",
+        "https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/BK%20Background%20paper%20-%20Brittany%20Kaiser%20Cambridge%20Analytica%20Opinion.pdf",
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/79388.pdf",
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/81022.pdf",
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/81592.pdf",
+        "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/oral/82471.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election",
+        "https://www.theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump",
+        "https://www.theguardian.com/news/2018/mar/17/cambridge-academic-trawling-facebook-had-links-to-russian-university",
+        "https://www.theguardian.com/uk-news/2018/mar/19/cambridge-analytica-execs-boast-dirty-tricks-honey-traps-elections",
+        "https://www.theguardian.com/news/2018/mar/20/facebook-data-cambridge-analytica-sandy-parakilas",
+        "https://www.theguardian.com/uk-news/2018/mar/23/former-cambridge-analytica-executive-brittany-kaiser-wants-to-stop-lies",
+        "https://www.theguardian.com/news/2018/mar/23/judge-grants-search-warrant-for-cambridge-analyticas-offices",
+        "https://www.theguardian.com/uk-news/2018/mar/24/brexit-whistleblower-shahmir-sanni-interview-vote-leave-cambridge-analytica",
+        "https://www.theguardian.com/technology/2018/mar/24/facebook-week-of-shame-data-breach-observer-revelations-zuckerberg-silence",
+        "https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory",
+        "https://apnews.com/2db0fc93cf664a63909e26e708e91c67/cruz-app-data-collection-helps-campaign-read-minds-voters",
+        "https://www.nytimes.com/2018/04/17/technology/cambridge-analytica-initial-coin-offering.html",
+        "https://www.channel4.com/news/exposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica"
+      ]
+    },
+    "description": "A data-driven political marketing company that worked on many different campaigns around the world. Cambridge Analytica uses data from a variety of sources combined with psychological profiles and surveys to target advertisements. It has been at the center of recent scandals due to the misuse of Facebook data when working on the Trump campaign.<br />An undercover investigation revealed that in some cases they may conceal their involvement in elections with front companies/partner companies or use more dubious tactics such as bribery and honey traps.  Cambridge Analytica was also working on a cryptocurrency to enable people to sell their data to advertisers.<br />Due to a series of scandals, Cambridge Analytica and many of its associated companies were closed.  However, Cambridge Analytica is far from unique and many other companies use similar techniques and data.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/gb/09366423",
+      "https://opencorporates.com/companies/us_de/887330",
+      "https://opencorporates.com/companies/gb/09375920",
+      "https://opencorporates.com/companies/us_de/5678359",
+      "https://opencorporates.com/companies/gb/09154503",
+      "https://opencorporates.com/companies/us_de/5678359",
+      "https://opencorporates.com/companies/gb/09154503",
+      "https://opencorporates.com/companies/us_de/5458274",
+      "https://opencorporates.com/companies/us_de/5530983",
+      "https://opencorporates.com/companies/us_de/5678357"
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Deep Root Analytics",
+    "associated_companies": "Deep Root Analytics",
+    "office_city": [
+      "Arlington"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.deeprootanalytics.com/",
+    "twitter": "https://twitter.com/deeprootx",
+    "facebook": null,
+    "linkedin": "https://www.linkedin.com/company/deep-root-analytics",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Audience Segmentation"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Donald Trump"
+    ],
+    "associated_people": [
+      "Brent McGoldrick",
+      "Alex Lundry",
+      "Brent Seaborn",
+      "Elise Kelly Lewis",
+      "Kelly Georgia",
+      "David Seawright",
+      "Luke Frans",
+      "Todd Novick",
+      "Corey Mull",
+      "Danielle Mendheim",
+      "Abi Green",
+      "Devon Powley",
+      "John Giles"
+    ],
+    "affiliated_companies": [
+      "Data Trust"
+    ],
+    "data_sources": [
+      "Consumer Purchase Data",
+      "Psychographic/Personality Tests",
+      "Voter Databases",
+      "Reddit"
+    ],
+    "targeting_methods": [
+      "TV",
+      "Advertising",
+      "Sentiment Analysis"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://www.deeprootanalytics.com/wp-content/uploads/2017/06/DRA-Audience-List.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://www.deeprootanalytics.com/platform/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Enables targeted advertising for TV by helping segment audiences and offering analytics tools to understand TV advertisement performance.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_va/S4615250"
+    ],
+    "searx_queries": "https://searx.me/?q=%22Deep%20root%20analytics%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Data Trust",
+    "associated_companies": "Data Trust",
+    "office_city": [
+      "Washington DC"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "http://thedatatrust.com",
+    "twitter": "https://twitter.com/TheDataTrust",
+    "facebook": "http://thedatatrust.com/assets/img/footer-fb.png",
+    "linkedin": "https://www.linkedin.com/company/gop-data-trust",
+    "github": "https://github.com/datatrust",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection"
+    ],
+    "products_services_category": [
+      "Voter Databases"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "US Republican Party"
+    ],
+    "associated_people": [
+      "Johnny DeStefano"
+    ],
+    "affiliated_companies": [
+      "Americans for Prosperity",
+      "Deep Root Analytics"
+    ],
+    "data_sources": [
+
+    ],
+    "targeting_methods": [
+
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+        "https://gizmodo.com/gop-data-firm-accidentally-leaks-personal-details-of-ne-1796211612"
+      ]
+    },
+    "description": "One of the companies that manages the Republican voter list in the US.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": "https://searx.me/?q=%22gop%20data%20trust%22&categories=news&language=en-US"
+  },
+  {
+    "name": "L2 Political",
+    "associated_companies": "L2 Political",
+    "office_city": [
+      "Bothell"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "http://www.l2political.com/",
+    "twitter": "https://twitter.com/l2political",
+    "facebook": "https://www.facebook.com/L2Data",
+    "linkedin": "https://www.linkedin.com/company/labels-&-lists",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Voter Databases",
+      "Data Broker"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Paul Westcott",
+      "Bruce Willsie",
+      "Carlie Titus Gliha",
+      "Matthew Curley"
+    ],
+    "affiliated_companies": [
+      "HaystaqDNA"
+    ],
+    "data_sources": [
+      "Voter Databases",
+      "Consumer Purchase Data",
+      "Census",
+      "Election Results",
+      "Telephone Directory/Database",
+      "Campaign Disclosures/Donation Data"
+    ],
+    "targeting_methods": [
+      "Email",
+      "Mail",
+      "Telemarketing",
+      "TV"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+        "http://www.l2political.com/wp-content/uploads/2016/09/L2-Data-Dictionary-1.pdf"
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "http://www.l2political.com/products/data/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Maintains databases of voters and non-voting adults along with contact information, purchasing behavior, and demographic data. L2 sells this data and makes software for analyzing it.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_wa/600605017",
+      "https://opencorporates.com/companies/us_ca/C4080900",
+      "https://opencorporates.com/companies/us_ma/001214854",
+      "https://opencorporates.com/companies/us_ca/C3453122",
+      "https://opencorporates.com/companies/us_hi/44765F1"
+    ],
+    "searx_queries": "https://searx.me/?q=%22l2%20political%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Victory Lab",
+    "associated_companies": "Victory Lab",
+    "office_city": [
+      "Mexico City"
+    ],
+    "office_country": [
+      "Mexico"
+    ],
+    "website": "http://victorylabmkt.com/",
+    "twitter": "https://twitter.com/victory_lab",
+    "facebook": "https://www.facebook.com/victorylabmkt/",
+    "linkedin": "https://www.linkedin.com/company/victory-lab/",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Full-Service Political Marketing",
+      "Social Media Management"
+    ],
+    "customer_country": [
+      "Mexico",
+      "United States"
+    ],
+    "known_customers": [
+      "Juan Zepeda",
+      "Omar Fayad",
+      "Marco Rubio"
+    ],
+    "associated_people": [
+      "Carlos Merlo"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+      "Social Media"
+    ],
+    "targeting_methods": [
+      "Social Media"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+        "http://archive.is/s37Zq"
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "A Mexican political marketing company that was created in 2016. They seem to be a full-service company with a focus on social media.",
+    "legal_entities": [
+
+    ],
+    "searx_queries": null
+  },
+  {
+    "name": "Axiom Strategies",
+    "associated_companies": "Axiom Strategies",
+    "office_city": [
+      "Kansas City"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://axiomstrategies.com/",
+    "twitter": "https://twitter.com/AxiomStrategies",
+    "facebook": "https://www.facebook.com/axiomstrategies",
+    "linkedin": "https://www.linkedin.com/company/axiom-strategies",
+    "github": null,
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Audience Segmentation",
+      "Message Delivery"
+    ],
+    "products_services_category": [
+      "Get Out The Vote",
+      "Voter Databases"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+      "Kevin Yoder",
+      "Ted Cruz",
+      "Bill Eigel"
+    ],
+    "associated_people": [
+      "Jeff Roe",
+      "Rob Phillips",
+      "Sarah Hoeller"
+    ],
+    "affiliated_companies": [
+
+    ],
+    "data_sources": [
+
+    ],
+    "targeting_methods": [
+      "TV",
+      "Telemarketing",
+      "Social Media",
+      "Mail",
+      "Microtargeting"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+        "https://axiomstrategies.com/digital-services/",
+        "https://axiomstrategies.com/phone-programs/"
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Helps advertise to key voters across a variety of channels including online, on TV, by phone, and by mail. Axiom Strategies focuses on comparing the effectiveness of voter outreach programs and seems to work with mostly conservative campaigns.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_ca/C4072657",
+      "https://opencorporates.com/companies/us_tx/0802314835",
+      "https://opencorporates.com/companies/us_al/023-982",
+      "https://opencorporates.com/companies/us_mo/LC0701309"
+    ],
+    "searx_queries": "https://searx.me/?q=%22axiom%20strategies%22&categories=news&language=en-US"
+  },
+  {
+    "name": "Applecart",
+    "associated_companies": "Applecart",
+    "office_city": [
+      "New York"
+    ],
+    "office_country": [
+      "United States"
+    ],
+    "website": "https://www.applecart.co/",
+    "twitter": "https://twitter.com/applecartusa",
+    "facebook": "https://www.facebook.com/applecartUSA/",
+    "linkedin": "https://www.linkedin.com/company/applecart",
+    "github": "https://github.com/applecart",
+    "document_type": "Company",
+    "part_of_pipeline": [
+      "Data Collection",
+      "Audience Segmentation"
+    ],
+    "products_services_category": [
+      "Network Analysis",
+      "Social Listening"
+    ],
+    "customer_country": [
+      "United States"
+    ],
+    "known_customers": [
+
+    ],
+    "associated_people": [
+      "Sacha Samotin",
+      "Alex Jeffers",
+      "Ethan Weber",
+      "Jesse Arm",
+      "Alan Anders"
+    ],
+    "affiliated_companies": [
+      "Dorm Room Fund"
+    ],
+    "data_sources": [
+      "Social Media",
+      "Yearbooks",
+      "News",
+      "Websites/Blogs"
+    ],
+    "targeting_methods": [
+      "Contacts/Social Connections"
+    ],
+    "associated_documents": {
+      "remote_pdf": [
+
+      ],
+      "local_pdf": [
+
+      ],
+      "company_website": [
+
+      ],
+      "linkedin": [
+
+      ],
+      "archive": [
+
+      ],
+      "news": [
+
+      ]
+    },
+    "description": "Uses network analysis based on a variety of data sources to infer political viewpoints and leverage relationships to influence voters.",
+    "legal_entities": [
+      "https://opencorporates.com/companies/us_de/5376147",
+      "https://opencorporates.com/companies/us_pa/4276551",
+      "https://opencorporates.com/companies/us_ny/4853516"
+    ],
+    "searx_queries": ""
+  }
+]
